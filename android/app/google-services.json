@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "122078741090",
+    "firebase_url": "https://trivia-royale-2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "trivia-royale-2",
+    "storage_bucket": "trivia-royale-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122078741090:android:bff55f0cc46d385814c73b",
+        "android_client_info": {
+          "package_name": "com.example.trivia_royale_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122078741090-85al9a2fgn8dcfqhrjln5e3raljdmsfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw29chl67GwzaUYAhWFJuG3sNz172kS8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122078741090-85al9a2fgn8dcfqhrjln5e3raljdmsfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:122078741090:android:6b22d4c191cb2f6a14c73b",
+        "android_client_info": {
+          "package_name": "com.vertexgroup.trivia_royale_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "122078741090-4g6vrg4d3icv3minnu1d21qnvl6dqtib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vertexgroup.trivia_royale_2",
+            "certificate_hash": "13c090845dec9ee762bc1aa1e24d8ba1b2cd704f"
+          }
+        },
+        {
+          "client_id": "122078741090-85al9a2fgn8dcfqhrjln5e3raljdmsfr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw29chl67GwzaUYAhWFJuG3sNz172kS8U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "122078741090-85al9a2fgn8dcfqhrjln5e3raljdmsfr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
